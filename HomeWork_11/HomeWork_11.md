@@ -16,3 +16,5 @@ UML-диаграмма домена (Domain Diagram):
 __
 
 ![](UML_003.jpg)
+
+
