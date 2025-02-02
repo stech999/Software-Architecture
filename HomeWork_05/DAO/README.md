@@ -3,3 +3,5 @@
 Диаграмма UML
 
 ![](DiagramsDAO.jpg)
+
+
