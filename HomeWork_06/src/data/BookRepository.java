@@ -12,3 +12,4 @@ public interface BookRepository {
     void removeBook(Book book);
     List<Book> getAllBooks();
 }
+
